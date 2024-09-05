@@ -14,9 +14,9 @@ AgroVision es una solución tecnológica de visión computarizada el cual permit
 
 ### Documentos
 
-- ![Documento de AgroVision](https://drive.google.com/file/d/1_kKfcIY7_TYXMrK6JALTNj94atUlDyXB/view?usp=drive_link)
-- ![Manual del Administrador](https://drive.google.com/file/d/1C9DD-zeh7qVqySL18rwG0dUV9ZAWxor9/view?usp=drive_link)
-- ![Manual del Usuario](https://drive.google.com/file/d/1nWLr6M7lDupep4VI0041nGWkhmH76ncE/view?usp=drive_link)
+- [Documento de AgroVision](https://drive.google.com/file/d/1_kKfcIY7_TYXMrK6JALTNj94atUlDyXB/view?usp=drive_link)
+- [Manual del Administrador](https://drive.google.com/file/d/1C9DD-zeh7qVqySL18rwG0dUV9ZAWxor9/view?usp=drive_link)
+- [Manual del Usuario](https://drive.google.com/file/d/1nWLr6M7lDupep4VI0041nGWkhmH76ncE/view?usp=drive_link)
 
 ### Copyright
 
